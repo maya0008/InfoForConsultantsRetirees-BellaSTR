@@ -14,10 +14,6 @@ header {
     text-align: center;
     font-size: 5rem;
     font-weight: bold;
-    background-image: url(cons.jpg);
-    height: 1000px;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 .title {
     color: black;
