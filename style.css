@@ -104,3 +104,21 @@ section h2 {
     font-style: oblique;
 }
 
+.table {
+    border-collapse: collapse;
+    width: 60%;
+    margin: 20px auto;
+    direction: rtl;
+}
+
+th, td {
+    border: 1px solid #333;
+    padding: 8px 12px;
+    text-align: center;
+}
+th {
+    background-color: #f2f2f2;
+}
+h2 {
+    text-align: center;
+}
